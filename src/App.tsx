@@ -1,6 +1,7 @@
 import { AudioRecorder } from "./components/audioRecorder";
 import { FileUploader } from "./components/fileUpload";
 import { Location } from "./components/location";
+import { Notifications } from "./components/notifications";
 import { VideoRecorder } from "./components/videoRecorder";
 
 function App() {
@@ -27,6 +28,8 @@ function Content() {
         <VideoRecorder />
         <br /><br />
         <Location />
+        <br /><br />
+        <Notifications />
       </div>
     </>
   );
