@@ -1,5 +1,5 @@
+import { useAudioRecorder } from "js-media-package";
 import { useEffect, useRef } from "react";
-import { useAudioRecorder } from "../hooks/useAudioRecorder";
 
 function AudioRecorder() {
 

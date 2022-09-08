@@ -1,4 +1,4 @@
-import { useLocation } from "../hooks/useLocation";
+import { useLocation } from "js-media-package";
 import Render from "./render";
 
 function Location() {

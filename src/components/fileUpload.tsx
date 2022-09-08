@@ -1,4 +1,4 @@
-import { useFileUpload } from '../hooks/useFileUpload';
+import { useFileUpload } from "js-media-package";
 
 function FileUploader() {
     const { fileUrl, sendFile, fileExtension, resetFile, fileType, fileName } = useFileUpload();

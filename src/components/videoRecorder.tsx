@@ -1,5 +1,5 @@
+import { useVideoRecorder } from "js-media-package";
 import { useEffect, useRef } from "react";
-import { useVideoRecorder } from "../hooks/useVideoRecorder";
 
 function VideoRecorder() {
 

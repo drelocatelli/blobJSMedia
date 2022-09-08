@@ -1,5 +1,5 @@
+import { useNotification } from "js-media-package";
 import { useEffect } from "react";
-import { useNotification } from "../hooks/useNotification";
 
 function Notifications() {
 
