@@ -16,4 +16,4 @@ function Notifications() {
     );
 }
 
-export {Notifications};
+export {Notifications}; 
